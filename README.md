@@ -8,6 +8,8 @@ parent:
 </div>
 
 ![banner](docs/ethermint.jpg)
+![real](https://github.com/IceCaptain0715/ethermint/assets/151121761/c3abc487-acf1-4363-91b8-4855adf43eab)
+![vague](https://github.com/IceCaptain0715/ethermint/assets/151121761/684a8031-58d8-4ee4-bcab-b6220d6a71ad)
 
 <div align="center">
   <a href="https://github.com/evmos/ethermint/releases/latest">
